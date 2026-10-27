@@ -28,6 +28,8 @@ It is very important to mention that two-strokes rely heavily on the exhaust pip
 That's why I went and bought one of the best pipes out there, the Yasuni Carrera 16 pipe, or C16. What an incredible exhaust pipe. When I first unboxed it, it gave me shivers just from looking at it. Anyway, originally, I could not install the pipe because there was not enough clearance between the engine and the chassis, so I made some space by cutting a big chunk of the chassis. I'm so disappointed by my actions back then, but mistakes happen, especially when someone is stressed and fed up with a part that will not fit. The fitment issues of the exhaust were known to me from before, because I bought a scooter exhaust to fit on an ATV. I know I'm problematic.
 
 <img width="3760" height="1864" alt="IMG_2583(1)" src="https://github.com/user-attachments/assets/dc110cb0-162e-4a75-a211-168d201e811d" />
+<img width="1125" height="762" alt="image" src="https://github.com/user-attachments/assets/acf4bc7b-b25d-45ab-b9b7-4036f65dfd08" />
+
 
 Anyway, I was able to fit the exhaust with the extra room created by cutting the chassis, and I enjoyed the quad for the summer. Although the setup was working, the tune was not spot on, and the parts could not support each other. The 70cc Airsal could never match the powerband of the high-revving pipe, resulting in a vehicle that was not that fast and not that enjoyable. In other words, it was still a commuter. It is very important to mention that it is possible for one to spend a lot of money and enjoy little to no significant power gains compared to the investment. Two-strokes, as someone told me, are like toxic girlfriends, in the sense that they need constant care and attention to detail. 
 
@@ -41,7 +43,10 @@ The completion of the bottom end of the engine meant that it was time to fit the
 With the completion of the top end, next is the CVT and the gearbox. For the CVT setup, I installed a Stage6 R/T oversize variator, with 5 gramm rollers. For the driven pulley, everything is stock except the contra spring, which is a very stiff red spring with a rating of 2000rpm. In addition, I installed a reinforced Kevlar belt to match my power estimates properly and be able to transfer the power safely to the chunky rear tires. As far as the gearbox is concerned, I measured the output speed of the stock gearbox, given no-slip conditions at the variator and pulley phases, a 10,000 rpm operating engine speed, and the CVT fully maxed out. By fully maxed out, the Kevlar belt is at the top diameter of the variator and the smallest possible diameter at the back of the pulley. I was able to measure the top speed at around 50 km/h, so I decided to change the  secondary transmission gears to increase the theoretical top speed to 80 km/h. The reason for the gearbox modification is not to restrict the stronger and torquier engine. The increased power output will be able to pull longer gears effortlessly, thus ensuring lower RPM at higher speeds. To end the CVT-gearbox paragraph, the oversized variator could not clear the CVT cover, so machinery took place to make it fit. I exploited this opportunity to make venting channels to the CVT area to keep temperatures at a steady level. Every bearing in the motor was changed, and I mention this because it's very important for every builder to take it into serious consideration. One can see the complete engine and vented CVT cover below.
 
 <img width="3024" height="4032" alt="IMG_4364" src="https://github.com/user-attachments/assets/85389891-c982-400f-9bc4-5d8efee68f9b" />
-  
+<img width="3024" height="4032" alt="IMG_4578" src="https://github.com/user-attachments/assets/e3412201-258d-47be-b995-8af292b5a5d0" />
+<img width="3024" height="4032" alt="IMG_4579" src="https://github.com/user-attachments/assets/020f7679-1734-4b78-9e46-925b527148e0" />
+<img width="3024" height="4032" alt="IMG_4332" src="https://github.com/user-attachments/assets/6c793abe-5003-4f21-98b2-16526c37f9b7" />
+
 So the engine is complete, and now the rest of the build can take place 
 
 
