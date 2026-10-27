@@ -1,5 +1,7 @@
 # AptonHades
-Two-Stroke quad from Hades
+Two-Stroke quad from Hades. 
+
+From a 3hp commuter to a 16hp monster.
 
 # Description of the project
 
