@@ -3,6 +3,8 @@ Two-Stroke quad from Hades.
 
 From a 3hp commuter to a 16hp monster.
 
+This project is something very close to my heart. I am sharing this story as it constitutes the beginning of a great chapter in my life.
+
 # Description of the project
 
 
@@ -53,4 +55,9 @@ At this point, I want to mention that the endeavour of restoring an old machine 
 
 Next in line was the final piece of the puzzle before the rebuild could take place. I am referring to the suspension of the four-wheeler, and it is a very complicated issue, as it will be discussed further down in the paragraph. The suspension of the SMC Mustang 50 consists of a single A-arm suspension in the front and a single fork setup at the back, as all of the ATVs. First and foremost, the suspension forks were restored to their former glory, as rust and gunk were devouring them. I repainted them graphite black, and the result was an interesting contrast between the chassis's vibrant blue and the suspension's black colour. In addition, I took some basic care of the coilovers so they look clean and readjusted their damping height to alter the stance of the vehicle. This choice was a very careful move, due to the nature of the tires the quad is running, as far as size is concerned, and the problems that come with a single A-arm suspension.
 
+Single A-arm suspension suffers from a phenomenon called dynamic camber. This means that during turning, braking, and in general, at any given weight transfer process, the tires' angles change dynamically, thus having a great impact on grip and on the rolling effect of the chassis during turning. The ways to address the problems will be discussed in a new blog, as they have not been used on the vehicle's suspension setup. To give the reader a glimpse of some ideas I think will help significantly, the installation of an anti-roll bar and wheel spacers, lowering the vehicle's ride height, and selecting a more square tire type for the front. The reasons will be discussed at another time for the specific modifications.   
+
+To give some sense of where the project is, the engine has been finished, the chassis has been restored, and the suspension parts are in great condition. So, logically, the next step is to start assembling the quad. And that's what I did. After one whole year of planning, machining, and stressing over every little detail that can go wrong in the engine's operation, I started the assembly process. It took me approximately one week of intense labour and measuring to make it one piece. I custom-fabricated an exhaust support bracket by welding because the bracket the exhaust came with could not clear the extra gearbox that ATVs have for the selection of Drive, Neutral, and Reverse. In addition, I exploited the magic of 3D-printing to create the little things missing from the build, like some brackets and restrictors. 
+
+In the following section, I'll m
 
