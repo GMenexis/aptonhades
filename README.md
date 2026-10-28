@@ -47,6 +47,10 @@ With the completion of the top end, next is the CVT and the gearbox. For the CVT
 <img width="3024" height="4032" alt="IMG_4579" src="https://github.com/user-attachments/assets/020f7679-1734-4b78-9e46-925b527148e0" />
 <img width="3024" height="4032" alt="IMG_4332" src="https://github.com/user-attachments/assets/6c793abe-5003-4f21-98b2-16526c37f9b7" />
 
-So the engine is complete, and now the rest of the build can take place 
+So the engine is complete, and now the rest of the build can take place. Next in line was the chassis. For it, I had in mind to restore the damaged section for exhaust clearance and sandblast it to remove rust from the rusty 20-year-old chassis. And that's how it went. It took an awful amount of time, but in the end, I ended up with a very clean, restored, and beautiful-looking metallic cage. And to top everything off, I took the cage for powder coating and ended up with a very beautiful, dark, vibrant blue finish, which you can see in the photos below.
+
+At this point, I want to mention that the endeavour of restoring an old machine does not concentrate solely on the engine revival. A machine is not just an engine, it's a plethora of things that together get to be a working vehicle. To conclude my point, the significance of the engine department does not exceed, by any means, the significance of the chassis, and the importance of the suspension geometry and setup. You get my point.
+
+Next in line was the final piece of the puzzle before the rebuild could take place. The suspension of the  
 
 
