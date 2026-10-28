@@ -59,5 +59,78 @@ Single A-arm suspension suffers from a phenomenon called dynamic camber. This me
 
 To give some sense of where the project is, the engine has been finished, the chassis has been restored, and the suspension parts are in great condition. So, logically, the next step is to start assembling the quad. And that's what I did. After one whole year of planning, machining, and stressing over every little detail that can go wrong in the engine's operation, I started the assembly process. It took me approximately one week of intense labour and measuring to make it one piece. I custom-fabricated an exhaust support bracket by welding because the bracket the exhaust came with could not clear the extra gearbox that ATVs have for the selection of Drive, Neutral, and Reverse. In addition, I exploited the magic of 3D-printing to create the little things missing from the build, like some brackets and restrictors. 
 
-In the following section, I'll m
+Last but definitely not least, the brakes were a headache. I could not find the drum cables that would fit my setup, so I had to improvise. I bought the cables from a Yamaha motorcycle that would match the stock cables in length, and I modified the drum receptors to be able to work with the altered cables 
+
+In the following section, I'll mention, in a numeric way, the parts used for the engine rebuild -->
+
+Bottom End:
+-----------
+Stage6 HPC crank
+
+SKF C4 crank bearings
+
+Athena Crank Seals
+
+Top End:
+--------
+Stage6 Sport Pro Mk2 70cc cylinder
+
+BR9HS spark plug
+
+Intake:
+-------
+Sudco PWK 24mm carb
+
+Motoforce Racing Intake
+
+Vforce3 Carbon Fiber reeds
+
+Motoforce Air Intake
+
+Motoforce Karting Airbox
+
+Exhaust:
+--------
+Yasuni C16 pipe
+
+CVT:
+----
+Stage6 R/T Oversize Variator
+
+Stage6 Kevlar Belt
+
+Polini Evolution 2 clutch 107mm
+
+Polini Evolution 2 Clutch bell 107mm
+
+Gearbox:
+--------
+Aftermarket Secondary Transmission gears
+
+New bearings
+
+Chain Drive:
+------------
+Stock brockets
+
+428 Heavy Duty Chain
+
+Brakes:
+-------
+Front Drum Brakes stock
+
+New cables for front drum brakes
+
+Conversion kit from rear drum to disc
+
+High-pressure solenoid
+
+New rear brake lever
+
+DOT 4 Ipone brake fluid
+
+Suspension:
+-----------
+Front and rear suspension stock
+
 
