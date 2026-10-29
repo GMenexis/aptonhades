@@ -131,4 +131,15 @@ Suspension:
 -----------
 Front and rear suspension stock
 
+<img width="3024" height="4032" alt="IMG_1595" src="https://github.com/user-attachments/assets/1a910128-d40f-442c-84d0-57cad93a8677" />
+<img width="3024" height="4032" alt="IMG_1602" src="https://github.com/user-attachments/assets/bd7b4eaa-b317-4c26-89ce-fdc5b0a84567" />
+<img width="5712" height="4284" alt="IMG_1618" src="https://github.com/user-attachments/assets/f238f40f-9b6a-4849-8f2d-cd5bb6d441dd" />
+<img width="4284" height="5712" alt="IMG_1616" src="https://github.com/user-attachments/assets/e5fbc7e5-dffb-4002-b385-0178ea4c2a5b" />
+<img width="5712" height="4284" alt="IMG_1617" src="https://github.com/user-attachments/assets/39a907a5-daae-49f9-b6d6-37ceafe535f1" />
+<img width="5712" height="4284" alt="IMG_1619" src="https://github.com/user-attachments/assets/4cb102a2-4e31-47d7-9a72-c729f5806492" />
+<img width="4284" height="5712" alt="IMG_1795" src="https://github.com/user-attachments/assets/5109add8-8436-4182-915d-80d9acd6a413" />
+<img width="4284" height="5712" alt="IMG_2050" src="https://github.com/user-attachments/assets/15bb08b6-2c6a-4050-bc1b-316e1e36b844" />
+<img width="4284" height="5712" alt="IMG_2052" src="https://github.com/user-attachments/assets/dfcefcfb-66b4-43b8-9422-f624c59e55b5" />
+
+
 
