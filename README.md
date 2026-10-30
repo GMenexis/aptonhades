@@ -141,5 +141,5 @@ Front and rear suspension stock
 <img width="4284" height="5712" alt="IMG_2050" src="https://github.com/user-attachments/assets/15bb08b6-2c6a-4050-bc1b-316e1e36b844" />
 <img width="4284" height="5712" alt="IMG_2052" src="https://github.com/user-attachments/assets/dfcefcfb-66b4-43b8-9422-f624c59e55b5" />
 
-
+And now the time has come to analyze the behaviour and dynamic of the first ride, as well as the first impressions, due to the fact that I had not ridden the machine for over a year. 
 
