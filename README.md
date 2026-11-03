@@ -8,6 +8,7 @@ This project is something very close to my heart. I am sharing this story as it 
 # Description of the project
 
 <img width="4228" height="3081" alt="IMG_6175ρ" src="https://github.com/user-attachments/assets/87b7487b-72d7-4f77-9c50-d818d6bdd59c" />
+<img src="https://github.com/user-attachments/assets/87b7487b-72d7-4f77-9c50-d818d6bdd59c" width="100%" alt="Περιγραφή του project μου">
 
 The machine is an SMC Mustang 50 quad, a very basic commuter for everyday, simple use. As with every great project, people tend to take a chassis not intended to do what people want it to do. And that's fascinating! And that was my plan: to make this 50cc commuter a missile. But that wasn't the plan from the start.
 
