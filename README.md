@@ -7,7 +7,6 @@ This project is something very close to my heart. I am sharing this story as it 
 
 # Description of the project
 
-
 <img width="4284" height="3081" alt="IMG_6175ρ" src="https://github.com/user-attachments/assets/87b7487b-72d7-4f77-9c50-d818d6bdd59c" />
 
 The machine is an SMC Mustang 50 quad, a very basic commuter for everyday, simple use. As with every great project, people tend to take a chassis not intended to do what people want it to do. And that's fascinating! And that was my plan: to make this 50cc commuter a missile. But that wasn't the plan from the start.
@@ -60,7 +59,7 @@ To give some sense of where the project is, the engine has been finished, the ch
 Last but definitely not least, the brakes were a headache. I could not find the drum cables that would fit my setup, so I had to improvise. I bought the cables from a Yamaha motorcycle that would match the stock cables in length, and I modified the drum receptors to be able to work with the altered cables 
 
 In the following section, I'll mention, in a numeric way, the parts used for the engine rebuild -->
-
+-----------
 Bottom End:
 -----------
 Stage6 HPC crank
@@ -130,7 +129,7 @@ DOT 4 Ipone brake fluid
 Suspension:
 -----------
 Front and rear suspension stock
-
+-----------
 At this point, I reckon words do not empower the physicality and the whole visual of the project's life. I am a firm believer that images constitute an efficient and precise way to express what cannot be told. Thus, below there is a plethora of images that will help the reader imagine the process of the project Apton Hades.
 <img width="3024" height="4032" alt="IMG_1595" src="https://github.com/user-attachments/assets/1a910128-d40f-442c-84d0-57cad93a8677" />
 <img width="3024" height="4032" alt="IMG_1602" src="https://github.com/user-attachments/assets/bd7b4eaa-b317-4c26-89ce-fdc5b0a84567" />
@@ -161,10 +160,10 @@ At this point, I reckon words do not empower the physicality and the whole visua
 <img width="3024" height="4032" alt="IMG_5649" src="https://github.com/user-attachments/assets/361a8d37-b09d-44c1-a1df-7d0ed0ee27b7" />
 <img width="3024" height="4032" alt="IMG_5656" src="https://github.com/user-attachments/assets/e29b8f1d-bc9c-4553-b129-cfb1bfe29d5d" />
 
-
-
 And now the time has come to analyze the behaviour and dynamics of the first ride, as well as the first impressions, due to the fact that I had not ridden the machine for over a year. I first interacted with the vehicle as a 50cc commuter, then I rode it for a while as a 70cc, improperly tuned two-stroke, and now the time had come to experience the beast. When I first took it for a test ride, everything clicked together. The motor was revving incredibly fast and in a snappy manner. I still cannot get used to the fact that with something less than a quarter throttle, the engine was already at 9000 RPM. The C16 was screaming at high revs, while being incredibly loud and with a metallic, high-pitched sound. It sounded like a proper two-stroke dirt bike. Last, but definitely not least, the acceleration of the quad was brutal. When I say brutal, I mean brutally brutal. The vehicle could not find traction on any type of road, except good asphalt. The rush when hitting the powerband, with the CVT working harmoniously with the pipe and the cylinder, is something that cannot be described. When hitting the powerband, I had to hold on to the handlebars to not get knocked over by the acceleration of the quad. It is important to mention that the 0-60 km/h time was under 4.6 seconds, so someone with some experience riding can truly reflect on the above numerical statement. And again, I want to mention that it is a setup never intended for this chassis, and that's why intense labour and all-around care were needed.
 
 Although everything worked like a well-maintained gear clock, the setup of the suspension and the wheelbase were the limiting factors in going fast safely. That's why I would never push more than 60 km/h, because it felt extremely illegal and dangerous. The project is still ongoing because I desire to fix and upgrade the suspension setup and make the vehicle turn as if it's on rails. As I mentioned before, the next mods for Apton Hades are designated for the suspension, such as a custom anti-roll bar, lowering the ride height, changing to more square front tires, installing wheel spacers, and playing with preloaded camber and toe. Those modifications will be discussed at another time, in order to be addressed properly.
 
-As with everything in life, it takes time, devotion, and effort to achieve the things someone desires. But always keep in mind and at heart that nothing is impossible if someone truly wants it. I did not know a lot of things about engines and chassis dynamics, but this whole trip gave me a plethora of valuable lessons to develop my skills as an engineer and as a builder. I still cannot say that I know a lot of things, but there is one thing I can surely say. Man, I love what I'm doing, and I hope that anyone who is reading this is blessed in life by being able to do the things one loves.
+As with everything in life, it takes time, devotion, and effort to achieve the things someone desires. But always keep in mind and at heart, that nothing is impossible if someone truly wants it. I did not know a lot of things about engines and chassis dynamics, but this whole trip gave me a plethora of valuable lessons to develop my skills as an engineer and as a builder. I still cannot say that I know a lot of things, but there is one thing I can surely say. Man, I love what I'm doing, and I hope that anyone who is reading this is blessed in life by being able to do the things one loves.
+
+Thank you
