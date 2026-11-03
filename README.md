@@ -163,5 +163,5 @@ At this point, I reckon words do not empower the physicality and the whole visua
 
 
 
-And now the time has come to analyze the behaviour and dynamics of the first ride, as well as the first impressions, due to the fact that I had not ridden the machine for over a year. 
+And now the time has come to analyze the behaviour and dynamics of the first ride, as well as the first impressions, due to the fact that I had not ridden the machine for over a year. I first interacted with the vehicle as a 50cc commuter, then I rode it for a while as a 70cc, improperly tuned two-stroke, and now the time had come to experience the beast. When I first took it for a test ride, everything clicked together. The motor was revving incredibly fast and in a snappy manner. I still cannot get used to the fact that with something less than a quarter throttle, the engine was already at 9000 RPM. The C16 was screaming at high revs, while being incredibly loud and with a metallic, high-pitched sound. It sounded like a proper two-stroke dirt bike. Last, but definitely not least, the acceleration of the quad was brutal. When I say brutal, I mean brutally brutal. The vehicle could not find traction on any type of road, except good asphalt. The rush when hitting the powerband, with the CVT working harmoniously with the pipe and the cylinder, is something that cannot be described.
 
