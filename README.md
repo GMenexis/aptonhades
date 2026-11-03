@@ -7,7 +7,6 @@ This project is something very close to my heart. I am sharing this story as it 
 
 # Description of the project
 
-<img width="4228" height="3081" alt="IMG_6175ρ" src="https://github.com/user-attachments/assets/87b7487b-72d7-4f77-9c50-d818d6bdd59c" />
 <img src="https://github.com/user-attachments/assets/87b7487b-72d7-4f77-9c50-d818d6bdd59c" width="100%" alt="Περιγραφή του project μου">
 
 The machine is an SMC Mustang 50 quad, a very basic commuter for everyday, simple use. As with every great project, people tend to take a chassis not intended to do what people want it to do. And that's fascinating! And that was my plan: to make this 50cc commuter a missile. But that wasn't the plan from the start.
@@ -20,7 +19,6 @@ All of the above are not very significant as far as explaining the project's dev
 Enough with the above, it's time to talk with a sense of technicality. As mentioned before, we have an SMC Mustang 50, equipped with a Chinese Minarelli Horizontal engine, powered by the two-stroke cycle. This type of engine can be found in a large number of scooters, like the Yamaha Jog 50, the Yamaha Aerox, etc. In the beginning, I did not know the type of engine of the quad, which made it extremely difficult and stressful to find parts to fix the seized engine. The verification of the engine's identity was a crossover of me measuring parts from my engine and finding parts from the internet that matched exactly the silhouette of the cases and existing components that I had.
 
 
-<img width="3024" height="2549" alt="IMG_6472r" src="https://github.com/user-attachments/assets/6509727d-d21c-4b4a-92c7-8ce33de1aef7" />
 <img src="https://github.com/user-attachments/assets/6509727d-d21c-4b4a-92c7-8ce33de1aef7" width="100%" alt="Περιγραφή του project μου">
 
 After knowing the engine's identity, I bought an Airsal Sport 70cc Cylinder kit, and after installation, I got my first victory, as the quad fired up after a significant amount of time. Due to the increase in displacement from stock 50cc to 70cc, the engine was much stronger from low to mid RPM, but at high RPM, the engine was choking. The reason for this behaviour was the stock old muffler designed by the factory to deliver low-end torque.
